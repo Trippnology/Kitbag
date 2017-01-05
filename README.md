@@ -28,4 +28,4 @@ TODO: Write credits
 
 ## License
 
-[CC-BY-SA v3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+UNLICENSED
