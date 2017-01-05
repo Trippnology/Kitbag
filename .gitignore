@@ -42,7 +42,6 @@ Thumbs.db
 
 # Application files #
 #####################
-*.sublime-project
-*.sublime-workspace
+*.sublime-*
 sftp-config.json
 scratchpad.htm
