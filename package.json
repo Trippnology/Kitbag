@@ -1,9 +1,0 @@
-{
-	"name": "kitbag",
-	"version": "0.0.1",
-	"description": "Config files used in most of my projects.",
-	// There isn't actually any node here at the moment
-	"main": "index.js",
-	"author": "Rikki Tripp - Trippnology",
-	"license": "CC-BY-SA"
-}
