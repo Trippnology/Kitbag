@@ -22,7 +22,7 @@
 *.rar
 *.tar
 *.zip
-node_modules/*
+node_modules/
 
 # Logs and databases #
 ######################
@@ -44,5 +44,9 @@ Thumbs.db
 # Application files #
 #####################
 *.sublime-*
+.sass-cache/
 sftp-config.json
-scratchpad.htm
+
+# Environment variables
+.env
+.env_live
